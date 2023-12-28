@@ -1,0 +1,2 @@
+# SimpleESP32
+SimpleESP32 is a libary aimed at making developed using Arduino-enabled ESP32 boards easier. It manages all the difficult stuff and provides several detailed examples on how to do it. It is still in development, so expect bugs and missing features.
